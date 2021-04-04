@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a860780c-a5da-4d82-a950-8e671f710827" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qTp6HhY8mxo2Gv159Zuh9etwEp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CallArray">
+    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest1" />
+      <module name="School" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest2" />
+      <module name="School" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CallArray" />
+      <module name="School" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyArray" />
+      <module name="School" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortArray" />
+      <module name="School" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CallArray" />
+        <item itemvalue="Application.CopyArray" />
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.ArrayTest1" />
+        <item itemvalue="Application.ArrayTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a860780c-a5da-4d82-a950-8e671f710827" name="Default Changelist" comment="" />
+      <created>1617113256829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617113256829</updated>
+      <workItem from="1617113258177" duration="105000" />
+      <workItem from="1617113375228" duration="1800000" />
+      <workItem from="1617115189677" duration="1250000" />
+      <workItem from="1617170770421" duration="1859000" />
+      <workItem from="1617172648222" duration="1482000" />
+      <workItem from="1617174458152" duration="1739000" />
+      <workItem from="1617176273899" duration="497000" />
+      <workItem from="1617186899477" duration="149000" />
+      <workItem from="1617351577088" duration="1379000" />
+      <workItem from="1617353419829" duration="1890000" />
+      <workItem from="1617355331115" duration="1798000" />
+      <workItem from="1617357153442" duration="894000" />
+      <workItem from="1617529579439" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1420" height="240" key="GridCell.Tab.0.bottom" timestamp="1617356600245">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1420" height="240" key="GridCell.Tab.0.bottom/0.0.1463.914@0.0.1463.914" timestamp="1617356600245" />
+    <state width="1420" height="240" key="GridCell.Tab.0.center" timestamp="1617356600245">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1420" height="240" key="GridCell.Tab.0.center/0.0.1463.914@0.0.1463.914" timestamp="1617356600245" />
+    <state width="1420" height="240" key="GridCell.Tab.0.left" timestamp="1617356600244">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1420" height="240" key="GridCell.Tab.0.left/0.0.1463.914@0.0.1463.914" timestamp="1617356600244" />
+    <state width="1420" height="240" key="GridCell.Tab.0.right" timestamp="1617356600245">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1420" height="240" key="GridCell.Tab.0.right/0.0.1463.914@0.0.1463.914" timestamp="1617356600245" />
+    <state x="394" y="194" key="search.everywhere.popup" timestamp="1617355586474">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="394" y="194" key="search.everywhere.popup/0.0.1463.914@0.0.1463.914" timestamp="1617355586474" />
+  </component>
+</project>
